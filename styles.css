@@ -47,26 +47,26 @@ nav{
 }
 
 body.index{
-    background-image: url(biopic.jpg);
+    background-image: url(images/biopic.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 body.about{
-    background-image: url(city18.jpeg);
+    background-image: url(images/city18.jpeg);
     background-repeat: no-repeat;
     background-size: cover;    
     height: min-content;
 }
 
 body.work{
-    background-image: url(city2.png);
+    background-image: url(images/city2.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 body.projects{
-    background-image: url(city11.jpg);
+    background-image: url(images/city11.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
