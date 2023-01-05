@@ -76,8 +76,15 @@ div{
 .card-body{
 
     font-family: 'Rubik 80s Fade', cursive;
-    font-size: 35px;
+    font-size: 20px;
     
+}
+
+.card-body-home{
+
+    font-family: 'Rubik 80s Fade', cursive;
+    font-size: 35px;
+
 }
 
 .container-fluid{
