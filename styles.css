@@ -30,7 +30,7 @@ div{
 .two{
 
     grid-column: 5 / 7;
-    grid-row: 2 / 8;
+    grid-row: 1 / 8;
     background-color: rgb(169, 186, 193);
     width: 100%;
     height: 100%;
@@ -40,11 +40,11 @@ div{
 .twocopy{
 
     grid-column: 5 / 7;
-    grid-row: 2 / 8;
+    grid-row: 1 / 8;
     background-color: rgb(169, 186, 193);
-    width: 100%;
-    height: 100%;
-    padding: 14px;
+    width: 565px;
+    height: 730px;
+    padding: 0px;
 
 
 }
@@ -71,13 +71,23 @@ div{
     grid-row: 1 / 7;
     background-color: white;
     padding-top: 0rem;
+    
+}
+
+.card{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 50px;
+    
+
 }
 
 .card-body{
 
     font-family: 'Rubik 80s Fade', cursive;
     font-size: 20px;
-    
+
 }
 
 .card-body-home{
@@ -115,18 +125,13 @@ div{
     padding-right:30px;
 }
 
-/*body.index {
-    background-image: url('images/bg2.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 33% 84%;
-    
+.repo {
+    position: absolute;
+    top: 750px;
+    left: 180px;
+    font-family: 'Rubik 80s Fade', cursive;
+    text-decoration: none;
+    font-size: 35px;
+    color: rgb(55, 81, 116);
+    /*transform: translate(-50%, -50%);*/
   }
-
-body.projects{
-
-    background-image: url('images/bg2.jpg');
-    background-repeat: no-repeat;
-    background-size: 33% 80%;
-
-  }*/
