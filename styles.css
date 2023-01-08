@@ -23,7 +23,7 @@ div{
 
     grid-column: 3 / 5;
     grid-row: 1 / 2;
-    background-color: rgb(128, 128, 128);
+    background-color: rgb(255, 255, 255);
     font-family: 'Rubik 80s Fade', cursive;
     font-size: 50px;
     color: white;
