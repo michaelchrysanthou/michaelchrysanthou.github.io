@@ -24,6 +24,11 @@ div{
     grid-column: 3 / 5;
     grid-row: 1 / 2;
     background-color: rgb(128, 128, 128);
+    font-family: 'Rubik 80s Fade', cursive;
+    font-size: 50px;
+    color: white;
+
+
 
 }
 
@@ -116,6 +121,7 @@ div{
     font-family: 'Rubik 80s Fade', cursive;
     display: flex;
     font-size: 25px;
+    color: rgba(41, 67, 99, 0.759);
  
 }
 
@@ -125,6 +131,34 @@ div{
     padding-right:30px;
 }
 
+.nav1{
+
+    position: absolute;
+    top: 70px;
+    left: 300px;
+}
+
+.nav2{
+
+    position: absolute;
+    top: 70px;
+    left: 1500px;
+
+}
+
+.title{
+
+    position: absolute;
+    top: 70px;
+    left: 820px;
+    font-family: 'Rubik 80s Fade', cursive;
+    text-decoration: none;
+    font-size: 35px;
+    color: rgba(41, 67, 99, 0.759);
+
+
+}
+
 .repo {
     position: absolute;
     top: 750px;
@@ -132,6 +166,20 @@ div{
     font-family: 'Rubik 80s Fade', cursive;
     text-decoration: none;
     font-size: 35px;
-    color: rgb(55, 81, 116);
+    color: rgb(0, 0, 0);
     /*transform: translate(-50%, -50%);*/
+  }
+
+  .linkedin{
+
+    position: absolute;
+    top: 785px;
+    left: 180px;
+
+  }
+
+  .github{
+    position: absolute;
+    top: 30px;
+    left: 100px;
   }
