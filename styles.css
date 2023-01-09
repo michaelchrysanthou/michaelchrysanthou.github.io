@@ -44,6 +44,17 @@ body{
 
 }
 
+.contact-bio{
+
+    position: absolute;
+    text-decoration: none;
+    top: 827px;
+    left: 1760px;
+    font-family: 'Rubik 80s Fade', cursive;
+    font-size: 13px;
+
+}
+
 .content{
 
     display: grid;
@@ -103,6 +114,10 @@ div{
     background-color:white;
     font-family: 'Rubik 80s Fade', cursive;
 
+}
+
+.font-size{
+    font-size: 16px;
 }
 
 .five{
