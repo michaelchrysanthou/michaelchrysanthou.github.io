@@ -27,9 +27,6 @@ div{
     font-family: 'Rubik 80s Fade', cursive;
     font-size: 50px;
     color: white;
-
-
-
 }
 
 .two{
@@ -50,7 +47,6 @@ div{
     width: 565px;
     height: 730px;
     padding: 0px;
-
 
 }
 
@@ -84,7 +80,7 @@ div{
     margin-right: 5px;
     margin-top: 5px;
     margin-bottom: 50px;
-    
+
 
 }
 
@@ -182,4 +178,11 @@ div{
     position: absolute;
     top: 130px;
     left: 975px;
+  }
+
+  .youtube-logo{
+
+    position: absolute;
+    top: 130px;
+    left: 1050px;
   }
